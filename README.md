@@ -24,6 +24,7 @@ and bookmarks are logged to file (see prec_log). Also it can show SourceTV stati
 To install plugin just copy directories in archive to your `tf` folder and add `exec prec` to your `cfg\autoexec.cfg`.
 
 Edit `tf\custom\prec\addons\PREC.cfg` to change plugin's sounds and phrase settings.
+
 Edit `tf\custom\prec\cfg\PREC_Settings.cfg` to change the plugin's default settings.
 
 # CONSOLE
