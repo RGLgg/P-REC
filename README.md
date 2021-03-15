@@ -1,11 +1,12 @@
 # P-REC
+
+## Download from [here](https://github.com/RGLgg/P-REC/releases/latest/download/PREC.zip) and not the green download button above
+
 Rehost of P-REC. 
 
 P-REC is a TF2 plugin for Windows operating systems created by Ukraine Orange that records demos, takes screenshots and logs your killstreaks automatically.
 
 The original guide can be found [here](https://etf2l.org/p-rec/)
-
-
 
 
 # INFO
@@ -22,7 +23,8 @@ and bookmarks are logged to file (see prec_log). Also it can show SourceTV stati
 
 To install plugin just copy directories in archive to your `tf` folder and add `exec prec` to your `cfg\autoexec.cfg`.
 
-Edit `tf\custom\prec\addons\PREC.cfg` to change plugin's sounds, phrase and settings.
+Edit `tf\custom\prec\addons\PREC.cfg` to change plugin's sounds and phrase settings.
+Edit `tf\custom\prec\cfg\PREC_Settings.cfg` to change the plugin's default settings.
 
 # CONSOLE
 ```
