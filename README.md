@@ -1,3 +1,10 @@
+# This plugin is deprecated with the release of the 64-bit release of TF2(https://www.teamfortress.com/post.php?id=220436), please use in-game Valve recording features instead.
+
+
+--------
+
+
+
 # P-REC
 Rehost of P-REC. 
 
